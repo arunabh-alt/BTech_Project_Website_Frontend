@@ -15,7 +15,7 @@ This project is a culmination of our efforts in our BTech final year. We aim to 
 To get started with the development or exploration of the project, you can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/arunabh-alt/Web.git
+git clone https://github.com/arunabh-alt/BTech_Project_Website_Frontend.git
 ```
 
 Once cloned, you can explore the files and directories to understand the structure of the project. Feel free to make modifications, add features, or enhance the existing codebase as per the requirements of the project.

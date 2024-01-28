@@ -26,10 +26,10 @@ We welcome contributions from anyone interested in improving or enhancing our pr
 Feedback and Support
 If you have any feedback, questions, or need support regarding the project or its development, please don't hesitate to reach out to us. You can contact the project maintainers through the following channels:
 
-Email: example@example.com
-Issue Tracker: Link to Issue Tracker
+Email: arunabhbora.ab@gmail.com
+Issue Tracker: https://github.com/arunabh-alt/Web/issues
 License
-The project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes. However, we kindly request that you include proper attribution to the original authors and retain the license text in any derivative works.
+
 
 Thank you for your interest and involvement in our BTech final year project website! We hope you find it informative, engaging, and inspiring.
 
